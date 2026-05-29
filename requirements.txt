@@ -2,5 +2,5 @@ pyrogram
 tgcrypto
 aiosqlite
 flask
-python-dotenv
 requests
+python-dotenv
